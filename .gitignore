@@ -1,5 +1,5 @@
-# Por conta dos exercícios serem do material da Alura,
-# irei ocultá-los com o .gitignore, mas eles poderão ser
-# ocasionalmente mencionados nos arquivos dos exercícios
-# para dar contexto ao programa.
+# Por conta de alguns exercícios e exemplos serem do material da Alura,
+# irei ocultá-los com o .gitignore, mas eles poderão ser ocasionalmente
+# mencionados nos arquivos dos exercícios para dar contexto ao programa.
 exercicios/
+exemplos/
